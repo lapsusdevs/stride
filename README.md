@@ -12,9 +12,9 @@
   🛡️ No Ads • 🤖 No AI • 👁️‍🗨️ No Telemetry
 </p>
 
-<p align="center"><img src="https://github.com/lapsusdevs/stride/assets/71397795/2777d0ba-d4ee-476e-a5a6-8f6183a16526"></p>
-
----
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/lapsusdevs/stride/total?style=for-the-badge">
+</p>
 
 ## 🚀 What is Stride?
 
